@@ -1,0 +1,246 @@
+# NPC Samples
+track F9_4_S5
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/F9_4_S5_XIST.bw
+shortLabel F9_4_S5
+longLabel NPC F9_4_S5 XIST Coverage
+type bigWig
+color 255,0,0
+
+track F9_7_S6
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/F9_7_S6_XIST.bw
+shortLabel F9_7_S6
+longLabel NPC F9_7_S6 XIST Coverage
+type bigWig
+color 0,255,0
+
+track F11_1_S7
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/F11_1_S7_XIST.bw
+shortLabel F11_1_S7
+longLabel NPC F11_1_S7 XIST Coverage
+type bigWig
+color 0,0,255
+
+track F11_1A_S7
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/F11_1A_S7_XIST.bw
+shortLabel F11_1A_S7
+longLabel NPC F11_1A_S7 XIST Coverage
+type bigWig
+color 255,255,0
+
+track F12_1_S8
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/F12_1_S8_XIST.bw
+shortLabel F12_1_S8
+longLabel NPC F12_1_S8 XIST Coverage
+type bigWig
+color 255,0,255
+
+track F12_1A_S8
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/F12_1A_S8_XIST.bw
+shortLabel F12_1A_S8
+longLabel NPC F12_1A_S8 XIST Coverage
+type bigWig
+color 0,255,255
+
+track X4_2_new_S7
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X4_2_new_S7_XIST.bw
+shortLabel X4_2_new_S7
+longLabel NPC X4_2_new_S7 XIST Coverage
+type bigWig
+color 128,0,0
+
+track X4-2_S1
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X4-2_S1_XIST.bw
+shortLabel X4-2_S1
+longLabel NPC X4-2_S1 XIST Coverage
+type bigWig
+color 0,128,0
+
+track X5_1_S1
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X5_1_S1_XIST.bw
+shortLabel X5_1_S1
+longLabel NPC X5_1_S1 XIST Coverage
+type bigWig
+color 0,0,128
+
+track X6_2_new_S4
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X6_2_new_S4_XIST.bw
+shortLabel X6_2_new_S4
+longLabel NPC X6_2_new_S4 XIST Coverage
+type bigWig
+color 128,128,0
+
+track X6-1_S3
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X6-1_S3_XIST.bw
+shortLabel X6-1_S3
+longLabel NPC X6-1_S3 XIST Coverage
+type bigWig
+color 128,0,128
+
+track X175_18_4_S1
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X175_18_4_S1_XIST.bw
+shortLabel X175_18_4_S1
+longLabel NPC X175_18_4_S1 XIST Coverage
+type bigWig
+color 0,128,128
+
+track X175_18_8_S2
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X175_18_8_S2_XIST.bw
+shortLabel X175_18_8_S2
+longLabel NPC X175_18_8_S2 XIST Coverage
+type bigWig
+color 192,192,192
+
+track X183_25_S5
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X183_25_S5_XIST.bw
+shortLabel X183_25_S5
+longLabel NPC X183_25_S5 XIST Coverage
+type bigWig
+color 128,64,0
+
+track X183_26_S6
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X183_26_S6_XIST.bw
+shortLabel X183_26_S6
+longLabel NPC X183_26_S6 XIST Coverage
+type bigWig
+color 64,128,0
+
+track X183_30_S7
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X183_30_S7_XIST.bw
+shortLabel X183_30_S7
+longLabel NPC X183_30_S7 XIST Coverage
+type bigWig
+color 64,0,128
+
+track XXY_X5_a_S2
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/XXY_X5_a_S2_XIST.bw
+shortLabel XXY_X5_a_S2
+longLabel NPC XXY_X5_a_S2 XIST Coverage
+type bigWig
+color 0,64,128
+
+track XXY_X5_b_S3
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/XXY_X5_b_S3_XIST.bw
+shortLabel XXY_X5_b_S3
+longLabel NPC XXY_X5_b_S3 XIST Coverage
+type bigWig
+color 128,0,64
+
+track XXY_X6_S4
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/XXY_X6_S4_XIST.bw
+shortLabel XXY_X6_S4
+longLabel NPC XXY_X6_S4 XIST Coverage
+type bigWig
+color 64,128,128
+
+# Cardiomyocyte (CM) Samples
+track F9_3A_CM_S1
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/F9_3A_CM_S1_XIST.bw
+shortLabel F9_3A_CM_S1
+longLabel CM F9_3A_CM_S1 XIST Coverage
+type bigWig
+color 255,99,71
+
+track F9_4_CM_S2
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/F9_4_CM_S2_XIST.bw
+shortLabel F9_4_CM_S2
+longLabel CM F9_4_CM_S2 XIST Coverage
+type bigWig
+color 255,140,0
+
+track F9_7_CM_S3
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/F9_7_CM_S3_XIST.bw
+shortLabel F9_7_CM_S3
+longLabel CM F9_7_CM_S3 XIST Coverage
+type bigWig
+color 255,215,0
+
+track F11_1_CM_S4
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/F11_1_CM_S4_XIST.bw
+shortLabel F11_1_CM_S4
+longLabel CM F11_1_CM_S4 XIST Coverage
+type bigWig
+color 50,205,50
+
+track F12_1_CM_S5
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/F12_1_CM_S5_XIST.bw
+shortLabel F12_1_CM_S5
+longLabel CM F12_1_CM_S5 XIST Coverage
+type bigWig
+color 0,255,127
+
+track X4_2_CM_S1
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X4_2_CM_S1_XIST.bw
+shortLabel X4_2_CM_S1
+longLabel CM X4_2_CM_S1 XIST Coverage
+type bigWig
+color 0,191,255
+
+track X5_1_CM_S4
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X5_1_CM_S4_XIST.bw
+shortLabel X5_1_CM_S4
+longLabel CM X5_1_CM_S4 XIST Coverage
+type bigWig
+color 138,43,226
+
+track X5_2_CM_S5
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X5_2_CM_S5_XIST.bw
+shortLabel X5_2_CM_S5
+longLabel CM X5_2_CM_S5 XIST Coverage
+type bigWig
+color 255,20,147
+
+track X6_1_CM_S2
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X6_1_CM_S2_XIST.bw
+shortLabel X6_1_CM_S2
+longLabel CM X6_1_CM_S2 XIST Coverage
+type bigWig
+color 255,69,0
+
+track X6_2_CM_S3
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X6_2_CM_S3_XIST.bw
+shortLabel X6_2_CM_S3
+longLabel CM X6_2_CM_S3 XIST Coverage
+type bigWig
+color 0,0,139
+
+track X175_18_4_CM_S7
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X175_18_4_CM_S7_XIST.bw
+shortLabel X175_18_4_CM_S7
+longLabel CM X175_18_4_CM_S7 XIST Coverage
+type bigWig
+color 139,0,139
+
+track X175_18_8_CM_S8
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X175_18_8_CM_S8_XIST.bw
+shortLabel X175_18_8_CM_S8
+longLabel CM X175_18_8_CM_S8 XIST Coverage
+type bigWig
+color 0,139,139
+
+track X183_25_CM_S3
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X183_25_CM_S3_XIST.bw
+shortLabel X183_25_CM_S3
+longLabel CM X183_25_CM_S3 XIST Coverage
+type bigWig
+color 139,69,19
+
+track X183_26_CM_S4
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X183_26_CM_S4_XIST.bw
+shortLabel X183_26_CM_S4
+longLabel CM X183_26_CM_S4 XIST Coverage
+type bigWig
+color 0,100,0
+
+track X183_30_CM_S5
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X183_30_CM_S5_XIST.bw
+shortLabel X183_30_CM_S5
+longLabel CM X183_30_CM_S5 XIST Coverage
+type bigWig
+color 72,61,139
+
+track X183_37_CM_S6
+bigDataUrl https://raw.githubusercontent.com/Elliott-1/IPS-project_Elliott/main/hg38/X183_37_CM_S6_XIST.bw
+shortLabel X183_37_CM_S6
+longLabel CM X183_37_CM_S6 XIST Coverage
+type bigWig
+color 139,0,0

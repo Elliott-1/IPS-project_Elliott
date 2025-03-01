@@ -1,0 +1,5 @@
+hub XIST_hub
+shortLabel XIST visualization
+longLabel A Track Hub for XIST Region Visualization
+genomesFile genomes.txt
+email es1@example.com
