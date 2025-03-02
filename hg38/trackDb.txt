@@ -4,7 +4,7 @@ track NPC_Tracks
 compositeTrack on
 shortLabel NPC Tracks
 longLabel NPC Samples XIST Coverage
-visibility dense
+visibility full
 type bigWig
 
 track F9_4_S5
@@ -165,7 +165,7 @@ track CM_Tracks
 compositeTrack on
 shortLabel CM Tracks
 longLabel Cardiomyocyte Samples XIST coverage
-visibility dense
+visibility full
 type bigWig
 
 track F9_3A_CM_S1
